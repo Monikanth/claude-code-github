@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_type",
+      "Bash(cd /d/Claude-training/uigen)",
+      "Bash(ls -la .env)",
+      "Bash(grep -c ANTHROPIC_API_KEY .env)",
+      "Bash(awk -F= '/ANTHROPIC_API_KEY/{print length\\($2\\)}' .env)"
+    ]
+  }
+}

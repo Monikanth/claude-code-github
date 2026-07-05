@@ -1,0 +1,53 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a simple button component
+            - img [ref=e61]
+          - generic [ref=e64]:
+            - img [ref=e67]
+            - generic [ref=e72]:
+              - generic [ref=e75]: Created /App.jsx
+              - separator [ref=e76]
+              - generic [ref=e79]: Created /components/Button.jsx
+              - separator [ref=e80]
+              - paragraph [ref=e82]: Done! Created a reusable Button component with primary, secondary, and danger variants, plus disabled state support.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [ref=e32]
+          - tab "Code" [active] [selected] [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - generic [ref=e88]:
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - generic [ref=e96] [cursor=pointer]:
+              - img [ref=e97]
+              - img [ref=e99]
+              - generic [ref=e101]: components
+            - generic [ref=e104] [cursor=pointer]:
+              - img [ref=e105]
+              - generic [ref=e110]: Button.jsx
+          - generic [ref=e112] [cursor=pointer]:
+            - img [ref=e113]
+            - generic [ref=e118]: App.jsx
+        - separator [ref=e119]
+        - code [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e130]: "1"
+            - generic [ref=e136]: i
+            - textbox "Editor content" [ref=e138]
+  - alert [ref=e48]
+  - generic [ref=e140]:
+    - alert
+    - alert
